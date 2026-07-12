@@ -43,7 +43,7 @@
 
 ---
 
-# 📂 Projets
+# 📂 Projets de groupe
 
 ## 🏥 SénSanté Pro
 
@@ -76,9 +76,6 @@ Plateforme mettant en relation les agriculteurs et les fournisseurs d'intrants a
 - PHP
 - MySQL
 
-**Ma contribution :**
-- Développement Full Stack
-- Modélisation de la base de données
 
 > Projet présenté au Forum Alumni ESP – New Deal Technologie.
 
